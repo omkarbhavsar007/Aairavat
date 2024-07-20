@@ -1,8 +1,7 @@
-
 <p align="center">
 <img src='WEB PANEL/img/logo.png' style="height:100px;width:100px;" >
 </p>
-<h1 align=center>AIRAVAT</h1>
+<h1 align=center><a href="https://omkarbhavsar007.github.io/Aairavat/WEB%20PANEL/" style="color:white;">AIRAVAT</a></h1>
 
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
